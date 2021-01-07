@@ -28,13 +28,13 @@ Alle Vorlagen sind für die Nutzung mit Markdown vorbereitet.
 
 Falls Inhalte in Markdown vorliegen können diese eingefügt werden, wenn als Texteditor "Unformatiert" und dann als Formatierung "Markdown" ausgewählt wurden.
 
-### Elemente
+## Elemente
 
-## Ein-spaltige Elemente
+### Ein-spaltige Elemente
 
 * [Pfeil nach unten](html/1c_info_large_arrow_down.html)
 
-### Highlight Block 
+#### Highlight Block 
 
 Es gibt alle Vorlagen als volle Breite und als 2/3 Variante.
 
@@ -50,14 +50,14 @@ Es gibt alle Vorlagen als volle Breite und als 2/3 Variante.
 * [Erfolg (Grün) ganze Breite](html/1c_block_success.html)
 * [Erfolg (Grün) 2/3 Breite](html/1c_block_success_narrow.html), zentriertes Symbol
 
-### Buttons für Links
+#### Buttons für Links
 
 **Achtung**: Alle Schalter (Buttons) sind Links. D.h. Es muss die richtige URL zum Inhalt angepasst werden werden. In den Vorlagen sind diese mit `DOWNLOAD_LINK` bzw. `MOODLE_LINK` gekennzeichnet. 
 
 * [Download-Link (Blau) mit Download-Icon](html/1c_button_download.html)
 * [Inhalts-Link (Grün) mit Datei-Icon](html/1c_button_content.html)
 
-## Zwei-spaltige Elemente
+### Zwei-spaltige Elemente
 
 **Achtung**: Die rechte Spalte enthält einen Link, der angepasst werden muss. In den Vorlagen sind diese mit `LINK_ZUM_MEETING_RAUM` gekennzeichnet. 
 
@@ -65,19 +65,19 @@ Es gibt alle Vorlagen als volle Breite und als 2/3 Variante.
 * [Infoblock (2/3) mit Link (1/3)](html/2_block_info_link_orange.html) (für Videokonferenzen) Gelb
 
 
-## Flex (Mehrspaltige) Layouts (TODO)
+### Flex (Mehrspaltige) Layouts (TODO)
 
 Diese Elemente sind noch in Arbeit.
 
 Flex-Elemente nutzen das [flexible Layout](https://getbootstrap.com/docs/4.5/utilities/flex/) von Bootstrap. 
 
-### Block definition
+#### Block definition
 
 * linksbündige Darstellungen
 * rechtsbündige Darstellungen
 * zentrierte Darstellungen
 
-### Elemente
+#### Elemente
 
 * Element für einspaltige Darstellung
 * Element für 2/3 Darstellung
