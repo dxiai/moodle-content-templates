@@ -61,9 +61,8 @@ Es gibt alle Vorlagen als volle Breite und als 2/3 Variante.
 
 **Achtung**: Die rechte Spalte enthält einen Link, der angepasst werden muss. In den Vorlagen sind diese mit `LINK_ZUM_MEETING_RAUM` gekennzeichnet. 
 
-* [Infoblock (2/3) mit Link (1/3)](html/2_block_info_link_green.html) (für Videokonferenzen) Grün
-* [Infoblock (2/3) mit Link (1/3)](html/2_block_info_link_orange.html) (für Videokonferenzen) Gelb
-
+* [Infoblock (2/3) mit Link (1/3)](html/2c_block_info_link_green.html) (für Videokonferenzen) Grün
+* [Infoblock (2/3) mit Link (1/3)](html/2c_block_info_link_orange.html) (für Videokonferenzen) Gelb
 
 ### Flex (Mehrspaltige) Layouts (TODO)
 
